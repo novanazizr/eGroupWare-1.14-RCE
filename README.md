@@ -8,10 +8,10 @@
 
 #How to install?
 
-$apt-get upgrade&&apt-get update
-$git clone https://github.com/novanazizr/eGroupWare-1.14-RCE
-$cd eGroupWare-1.14-RCE
-$python3 exploit.py <target http/https> <IP>
+1. $apt-get upgrade&&apt-get update
+2. $git clone https://github.com/novanazizr/eGroupWare-1.14-RCE
+3. $cd eGroupWare-1.14-RCE
+4. $python3 exploit.py <target http/https> <IP>
 
 #Requirement
 1. python3
